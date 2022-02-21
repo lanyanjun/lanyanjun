@@ -5,7 +5,7 @@
 - 📫 How to reach me, drop me a message or connect via:
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![Linkedin](https://img.shields.io/badge/Linkedin-1E90FF?style=for-the-badge&logo=Linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/Linkedin-6495ED?style=for-the-badge&logo=Linkedin&logoColor=white)
 
 
 
